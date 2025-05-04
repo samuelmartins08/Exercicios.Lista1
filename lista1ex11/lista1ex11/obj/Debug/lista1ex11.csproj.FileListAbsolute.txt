@@ -1,0 +1,7 @@
+C:\Users\ssamu\source\repos\lista1ex11\lista1ex11\bin\Debug\lista1ex11.exe.config
+C:\Users\ssamu\source\repos\lista1ex11\lista1ex11\bin\Debug\lista1ex11.exe
+C:\Users\ssamu\source\repos\lista1ex11\lista1ex11\bin\Debug\lista1ex11.pdb
+C:\Users\ssamu\source\repos\lista1ex11\lista1ex11\obj\Debug\lista1ex11.csproj.AssemblyReference.cache
+C:\Users\ssamu\source\repos\lista1ex11\lista1ex11\obj\Debug\lista1ex11.csproj.CoreCompileInputs.cache
+C:\Users\ssamu\source\repos\lista1ex11\lista1ex11\obj\Debug\lista1ex11.exe
+C:\Users\ssamu\source\repos\lista1ex11\lista1ex11\obj\Debug\lista1ex11.pdb
